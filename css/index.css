@@ -1,0 +1,11 @@
+section#coming-soon {
+	text-align: center;
+	
+	img {
+		width: 100rem;
+	}
+}
+
+section#copyright {
+	text-align: center;
+}
